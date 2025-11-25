@@ -75,7 +75,7 @@ This repository is intended to:
 
 If you're a recruiter or interviewer and wish to know more, feel free to reach out.
 
-**Email:** *[add your email]*
+**Email:** *mirjabbarbadalov@gmail.com*
 
 ---
 
