@@ -36,12 +36,22 @@ All models are created and tested using MATLAB R2025b. Compatibility with earlie
 ```
 Simulink-Projects/
 │
-├── Project_Name_1/
+├── 2-Bus Loadflow
 │   ├── model.slx
 │   ├── explanation.pdf
 │   └── assets/ (optional screenshots)
 │
-├── Project_Name_2/
+├── DC Motor Control
+│   ├── model.slx
+│   ├── explanation.pdf
+│   └── assets/
+│
+│── Three-Phase Fault Analysis
+│   ├── model.slx
+│   ├── explanation.pdf
+│   └── assets/
+│
+│── Simple Three-Phase Model
 │   ├── model.slx
 │   ├── explanation.pdf
 │   └── assets/
