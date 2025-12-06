@@ -79,7 +79,7 @@ versions may vary.
     │   │   └── assets/
     │
     ├── AutoCAD-Electrical/
-    │   ├── Project-1/
+    │   ├── Simple Three-Phase Circuit
     │   ├── Project-2/
     │   └── ...
     │
