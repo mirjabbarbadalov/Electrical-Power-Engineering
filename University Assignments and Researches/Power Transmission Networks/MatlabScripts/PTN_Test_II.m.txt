@@ -1,0 +1,61 @@
+clc; clear all;
+format shortEng
+
+%Data:
+
+%Voltage level at short-circuit:
+Un=6e3;
+%Feeder data:
+SkQi=700e6;
+UQ=22e3;
+RQ=0;
+c=1.1;
+%Transformer data:
+ST=7e6;
+ukT=0.1;
+RT=0;
+UpT=23.1e3;
+UsT=6.3e3;
+aT=UpT/UsT;
+%Generator 1. data:
+SG1=9e6;
+xdi1=0.135;
+RG1=0;
+UG1=6e3;
+%Generator 2. data:
+SG2=9e6;
+xdi2=0.135;
+RG2=0;
+UG2=6e3;
+%Line 1. data:
+RV1=0.12;
+XV1=0.485;
+%Line 2. data:
+RV2=0.1;
+XV2=0.364;
+%Line 3. data:
+RV3=0.11;
+XV3=0.42;
+
+%Initial short-circuit positive sequence impedance calculations:
+
+%Feeder impedance:
+ZQ=1j*((c*UQ^2)/SkQi)*(1/aT^2);
+%Transformer impedance:
+ZT=1j*ukT*((UsT^2)/ST);
+%Generator 1 impedance:
+ZG1=1j*xdi1*((UG1^2)/SG1);
+%Generator 2 impedance:
+ZG2=1j*xdi2*((UG2^2)/SG2);
+%Line 1 impedance:
+ZV1=RV1+1j*XV1;
+%Line 2 impedance:
+ZV2=RV2+1j*XV2;
+%Line 3 impedance:
+ZV3=RV3+1j*XV3;
+%Resultant impedance:
+ZR=(1/(1/(ZQ+ZT)+1/(ZV1+ZG1)+1/(ZV2+ZG2)))+ZV3;
+
+%Initial short-cicuit current:
+Iki=(c*Un)/(ZR*sqrt(3))
+Ikiabs=abs(Iki)
