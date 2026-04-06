@@ -1,6 +1,6 @@
 # ⚡ Electrical Power Engineering – Simulation & Design Projects
 
-This repository is a curated portfolio of my Electrical Power Engineering work, showcasing experience in system modeling, simulation, and electrical design. It is intended to demonstrate my technical skills for internship and job opportunities.
+This repository is a curated portfolio of my Electrical Power Engineering work, showcasing experience in system modeling, simulation, and electrical design. 
 
 ---
 
