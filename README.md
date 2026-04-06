@@ -1,119 +1,59 @@
-⚡ Electrical Power Engineering – Simulation & Design Projects
+# ⚡ Electrical Power Engineering – Simulation & Design Projects
 
-This repository is a curated collection of my Electrical Power
-Engineering practice work, including MATLAB Simulink/Simscape models and
-AutoCAD Electrical design files.
-It serves as a technical portfolio to demonstrate my skills in system
-modeling, circuit analysis, and engineering design—especially for
-internship or job applications.
+This repository is a curated portfolio of my Electrical Power Engineering work, showcasing experience in system modeling, simulation, and electrical design. It is intended to demonstrate my technical skills for internship and job opportunities.
 
-------------------------------------------------------------------------
+---
 
-📘 Overview
+## 📘 Overview
 
-This repository includes:
+This repository includes projects created using various industry-standard engineering software:
 
-🟦 Simulink & Simscape Projects
+* 🟦 **Simulink & Simscape** – MATLAB-based tools for modeling, simulation, and analysis of dynamic systems
+* 🟧 **AutoCAD Electrical** – Software for electrical schematic design and industrial control systems drafting
+* 🟩 **EPLAN Electric P8** – Professional platform for electrical engineering design and documentation
+* 🟨 **ETAP** – Power system analysis software used for simulation, monitoring, and optimization
+* 🟪 **PowerWorld Simulator** – Tool for visualization and simulation of power system operations
+* 🟫 **Python (pandapower)** – Open-source library for power system modeling and analysis
+* 🎓 **University Assignments & Research** – Academic work supporting theoretical and practical understanding
 
-A set of engineering models built in MATLAB Simulink & Simscape
-(R2025b), each documented with:
+---
 
--   Project objective
--   Components and configuration
--   Simulation steps
--   Results & analysis
--   Key learning outcomes
+## 🧰 Tools & Software
 
-These models reflect my hands-on experience with power systems, control
-systems, and electromechanical modeling.
+* MATLAB Simulink R2025b
+* Simscape / Simscape Electrical R2025b
+* AutoCAD Electrical
+* EPLAN Electric P8
+* ETAP
+* PowerWorld Simulator
+* Python (pandapower)
 
-🟧 AutoCAD Electrical Files
+*Note: Some models may be version-dependent.*
 
-Complete project folders created in AutoCAD Electrical, including:
+---
 
--   Wiring diagrams
--   Panel layouts
--   Ladder logic schematics
--   Component lists
+## 🚀 How to Use
 
-These demonstrate my drafting accuracy, project organization, and
-understanding of industrial electrical design workflows.
+1. Clone or download the repository
+2. Open the relevant software tool
+3. Navigate to the desired folder
+4. Open and run the files
 
-------------------------------------------------------------------------
+---
 
-🧰 Tools & Software
+## 🎯 Purpose
 
--   MATLAB Simulink R2025b
--   Simscape / Simscape Electrical R2025b
--   AutoCAD Electrical
--   Additional Simulink libraries depending on project requirements
+* Showcase my technical skills
+* Support internship and job applications
+* Track my learning progress in power engineering
 
-Note: Simulink models were built in R2025b; compatibility with earlier
-versions may vary.
+---
 
-------------------------------------------------------------------------
+## 📬 Contact
 
-📂 Repository Structure
+📧 Email: [mirjabbarbadalov@gmail.com](mailto:mirjabbarbadalov@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/mirjabbarbadalov/
 
-    Electrical-Engineering-Projects/
-    │
-    ├── Simulink/
-    │   ├── 2-Bus Loadflow/
-    │   │   ├── model.slx
-    │   │   ├── explanation.pdf
-    │   │   └── assets/
-    │   │
-    │   ├── DC Motor Control/
-    │   │   ├── model.slx
-    │   │   ├── explanation.pdf
-    │   │   └── assets/
-    │   │
-    │   ├── Three-Phase Fault Analysis/
-    │   │   ├── model.slx
-    │   │   ├── explanation.pdf
-    │   │   └── assets/
-    │   │
-    │   ├── Simple Three-Phase Circuit/   ← First basic project
-    │   │   ├── model.slx
-    │   │   ├── explanation.pdf
-    │   │   └── assets/
-    │
-    ├── AutoCAD-Electrical/
-    │   ├── Simple Three-Phase Circuit
-    │   ├── Project-2/
-    │   └── ...
-    │
-    └── README.md
-
-------------------------------------------------------------------------
-
-🚀 How to Use the Models
-
-1.  Clone or download the repository.
-2.  Open MATLAB R2025b.
-3.  Open the .slx model file.
-4.  Run the simulation.
-5.  Refer to the project’s PDF for diagrams and detailed explanation.
-
-------------------------------------------------------------------------
-
-🎯 Purpose of This Repository
-
-This repository aims to:
-
--   Showcase my simulation and modeling skills
--   Provide organized examples for interview discussions
--   Track my progress in power engineering, Simulink modeling, and
-    electrical design
-
-------------------------------------------------------------------------
-
-📬 Contact
-
-If you’d like to learn more or discuss a project:
-
-Email: mirjabbarbadalov@gmail.com
-
-------------------------------------------------------------------------
+---
 
 Thank you for exploring my Electrical Power Engineering Projects!
