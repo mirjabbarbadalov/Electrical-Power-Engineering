@@ -1,0 +1,101 @@
+
+
+___________________________ START CALCULATION ________________________________
+[Scenename:] Restroom W
+[Scenefile:] C:\Users\mirja\AppData\Local\Temp\Relux2011_TempProject\RlxProject_1.rdf
+______________________________________________________________________________
+RlxCalculator Version: 2026.1.5.0 64-bit
+______________________________________________________________________________
+[Calculation options:] 
+______________________________________________________________________________
+[FastCalc On:] 0
+[Calculation type:] 
+Artificial Lighting
+
+______________________________________________________________________________
+______________________________________________________________________________
+[CPU and Multicore Information:] 
+______________________________________________________________________________
+[Vendor: ] GenuineIntel
+[Brand: ] 13th Gen Intel(R) Core(TM) i5-13420H
+[OS Architecture: ] AMD64 x64
+[Number of logical processors: ] 12
+[Max. number of threads: ] 12
+[OpenMP wait policy: ] PASSIVE
+[OpenMP processor binding: ] FALSE
+______________________________________________________________________________
+[MaxCells inside VisGrid: ] 40
+[Scene dimensions in [m]:] 3: 4.27: 3
+______________________________________________________________________________
+[Luminaire and Measuring Point parameters:] 
+______________________________________________________________________________
+[Number of Luminaires:] 24
+[Total flux of Luminaires:] 6960
+[Quadratic Interpolation:] 1
+[Number of Measuring Points: ] 711
+[Number of UGR Observers: ] 0
+[Number of GR Observers: ] 0
+[Number of DGP Observers: ] 0
+______________________________________________________________________________
+[Mesh Cluster information:] 
+______________________________________________________________________________
+[Number of Prototypes:] 1502
+[Number of Clones: ] 0
+[Number of ordinary Clusters: ] 39
+______________________________________________________________________________
+[Progressive Radiosity Parameters:] 
+______________________________________________________________________________
+[Decimal Places for scene parsing:] 3
+[Cluster Cloning:] 1
+[AttenuationFactor:] 1.25
+[FluxFactor:] 1
+[Indirect Portion:] 1
+[Substructuring:] 1
+[Maximal Shots:] 1
+[Patch Subdivision:] 0.53
+[Element Subdivision:] 2
+[Termination Threshold:] 0.5
+[Formfactor Threshold:] 0.1
+[Formfactor Correction:] 1
+[Area Threshold:] 0.0001281
+[OuterSurface On/Off:] 0
+[Number of original Polygons:] 13
+[Number of Patches:] 42676
+______________________________________________________________________________
+[ Artificial Lighting: ]
+______________________________________________________________________________
+[Classical Maintenancefactor: ]
+[Iterations: ] 262
+[Number of Elements direct Illum.: ] 44053
+[Number of Elements indirect Illum.: ] 9947
+[Number of Clusters: ] 6707
+[Original Indirect Power: ] 3342.24
+[Remaining Indirect Power: ] 1669.26
+[Luminous Flux Luminaires: ] 6960
+[Luminous Flux Direct Elements: ] 7060.2
+[Flux Correction Factor Direct: ] 0.985808
+[Flux Correction Factor Indirect: ] 0
+[Luminous Flux Indirect Elements: ] 0
+[Luminous Flux Patches: ] 4017.6
+[Remaining Luminance: ] 15.0443
+[Average Reflectance: ] 0.50496
+______________________________________________________________________________
+[ Measuring Area Lighting: ]
+______________________________________________________________________________
+[Avg/Max Luminance Ratio: ] 0.161715
+[Avg Luminance: ] 52.1413
+[Max Luminance: ] 322.427
+[Indirect Luminance Threshold: ] 5.21413
+[Number of Measuring Points: ] 711
+[Avg/Max Luminance Ratio: ] 0.1
+[Avg Luminance: ] 5.21413
+[Max Luminance: ] 322.427
+[Number of SubPatches: ] 310
+[Upward Flux UFR: ] 0
+[Ratio Area Hemisphere UFR: ] 0
+______________________________________________________________________________
+[Total calculation time in(sec.): ] 7
+[Min Luminance total: ] 0
+[Max Luminance total: ] 102.085
+[Mean Luminance total: ] 19.328
+[Calculation status:] finished
