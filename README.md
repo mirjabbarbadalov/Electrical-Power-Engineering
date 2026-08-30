@@ -12,6 +12,7 @@ This repository includes projects created using various industry-standard engine
 * 🟧 **AutoCAD Electrical** – Software for electrical schematic design and industrial control systems drafting
 * 🟩 **EPLAN Electric P8** – Professional platform for electrical engineering design and documentation
 * 🟨 **ETAP** – Power system analysis software used for simulation, monitoring, and optimization
+* 🟦 **SIMARIS Design** – Electrical network planning on the basis of real products with minimum input – from the medium-voltage down to the socket outlet
 * 🟪 **PowerWorld Simulator** – Tool for visualization and simulation of power system operations
 * 🟫 **Python (pandapower)** – Open-source library for power system modeling and analysis
 * 🎓 **University Assignments & Research** – Academic work supporting theoretical and practical understanding
